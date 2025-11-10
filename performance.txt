@@ -1,0 +1,15 @@
+SMT=2
+
+Non batch: 
+Batch: 
+
+
+SMT = 4
+Non Batch:
+Batch: 
+
+
+SMT = 8
+
+Non Batch: 3min 40sec
+Batch: 3min 10sec
